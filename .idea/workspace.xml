@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e270290-8480-4bad-afc5-8998c7d7bdef" name="Changes" comment="add changes" />
+    <list default="true" id="0e270290-8480-4bad-afc5-8998c7d7bdef" name="Changes" comment="output delete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693265466655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="output delete">
+      <created>1693265769482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693265769482</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +107,7 @@
     <MESSAGE value="ToyShop" />
     <MESSAGE value="add Readme" />
     <MESSAGE value="add changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
+    <MESSAGE value="output delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="output delete" />
   </component>
 </project>
